@@ -7,4 +7,5 @@ Descripcion: aplicacion que calcule IBM de un persona en base a su peso y estatu
 Miembros:
 Tatiana Marcela Rojas Diaz
 Karen Rojas
+Carlos González
 
